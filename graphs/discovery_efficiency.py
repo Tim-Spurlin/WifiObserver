@@ -100,7 +100,7 @@ def create_discovery_efficiency_chart(output_file=None):
                    textcoords="offset points",
                    ha='center', va='top',
                    fontsize=9,
-                   fontStyle='italic',
+                   fontstyle='italic',
                    bbox=dict(boxstyle="round,pad=0.3", facecolor="lightyellow", alpha=0.8))
     
     # Add additional benefits section
